@@ -1,0 +1,9 @@
+Create vpc
+Create Internet Gateway
+Create Route Table
+Create a Subnet
+Associate a Subnet with a route Table
+Create Security group to allow port 22,80 and 443
+Create a Network Interface with an ip in the Subnet that was created in the step 4 
+Assign ann Elastic Ip to network Interface created in step 7
+Create Ubuntu serevr and install/enable apache2
